@@ -15,6 +15,8 @@ import java.util.*;
  */
 public class Solution {
 	
+	// a change
+	
 	public static class Buffer {
 		
 		int[] array;
