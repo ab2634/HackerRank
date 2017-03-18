@@ -29,12 +29,8 @@ public class Solution {
     	System.out.println("Array is sorted in " + numberOfSwaps + " swaps.");
     	System.out.println("First Element: " + array[0]);
     	System.out.println("Last Element: " + array[array.length - 1]);
-    	
-    	
-    	
+    
     }
-    
-    
     
     public static int sort(int[] array) {
     	int numberOfSwaps = 0;
